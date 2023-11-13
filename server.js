@@ -8,7 +8,7 @@ app.use(bodyParser.json());
 // Serve static files from the root directory
 app.use(express.static(__dirname));
 
-// Handle root URL by sending the login.html file
+// Handle root URL by sending the index.html file
 app.get('/', (req, res) => {
     res.sendFile('index.html', { root: __dirname });
 });
