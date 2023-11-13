@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ben Macmichael",
+  "author": "Section 003 Group 1: Allie Marshall, Noelle Burton, Sean Ronstadt, Ben Macmichael",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
